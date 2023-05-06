@@ -1,6 +1,6 @@
 # semantic-kernel-self-learning-notebooks
 
-## Thanks for `Internet` and `OpenSource`
+## Thanks for `Internet`, `GFW` and `OpenSource`
 
 - offical-notebooks original source
 
